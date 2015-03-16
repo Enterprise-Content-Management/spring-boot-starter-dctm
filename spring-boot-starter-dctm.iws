@@ -1,0 +1,1701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="PASSWORD" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="PROJECT_STATUS_DIALOG_SPLITTER_DIVIDER_LOCATION" value="500" />
+    <option name="CHANGES_STATUS_DIALOG_SPLITTER_DIVIDER_LOCATION" value="500" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e241b90b-99a1-4321-936d-f85b3df677b1" name="Default" comment="" />
+    <ignored path="spring-boot-starter-dctm.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/../../../git/3gjavamodules/ews-java-api-master/atlassian-ide-plugin.xml" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426497473047" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/3gjavamodules/CreateMeetingRequest/atlassian-ide-plugin.xml" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426497473047" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/dctm-spring-data/atlassian-ide-plugin.xml" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426500575270" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/dctm-spring-data/pom.xml" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426500142597" ignored="false" />
+    <file path="/Dummy.txt" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426500145733" ignored="false" />
+    <file path="/pom.xml" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426500567879" ignored="false" />
+    <file path="/usr/local/Cellar/maven/3.2.5/libexec/conf/settings.xml" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426496483495" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/dctm-spring-data/src/main/java/com/emc/documentum/springdata/entitymanager/convert/ObjectToDCTMConverter.java" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426500142597" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/dctm-spring-data/spring-data-documentum.ipr" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426500143848" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/dctm-spring-data/activityLog.log.1" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426497237453" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/dctm-spring-data/activityLog.log" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426497237453" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/dctm-spring-data/src/test/java/com/emc/documentum/springdata/core/tests/DocumentumTest.java" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426500142597" ignored="false" />
+    <file path="/DocumentumTest.java" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426495847090" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/dctm-spring-data/activityLog.log.2" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426497237453" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/dctm-spring-data/activityLog.log.3" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426497237453" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/dctm-spring-data/activityLog.log.4" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426497237453" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyApp/pom.xml" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426500554721" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyApp/atlassian-ide-plugin.xml" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426500575270" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyApp/src/main/java/CreateObject.java" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426499599252" ignored="false" />
+    <file path="/CreateObject.java" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426498841209" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/dctm-spring-data/src/main/java/com/emc/documentum/springdata/core/Documentum.java" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426500142597" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/dctm-spring-data/src/main/java/com/emc/documentum/springdata/core/DSTemplate.java" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426500142597" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/dctm-spring-data/src/main/java/com/emc/documentum/springdata/entitymanager/EntityPersistenceManager.java" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426500142597" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/dctm-spring-data/src/test/java/com/emc/documentum/springdata/core/tests/DSTemplateTest.java" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426500142597" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git/dctm-spring-data/src/main/java/com/emc/documentum/springdata/entitymanager/EntityTypeHandler.java" changelist="e241b90b-99a1-4321-936d-f85b3df677b1" time="1426500142597" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="spring-boot-starter-dctm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="40" selection-start="367" selection-end="391" vertical-scroll-proportion="0.19266056">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MAVEN/spring-boot-starter-dctm:spring-boot-starter-dctm:0.0.1-SNAPSHOT" pinned="false" current="false" current-in-tab="false">
+        <entry file="uml://MAVEN/spring-boot-starter-dctm:spring-boot-starter-dctm:0.0.1-SNAPSHOT">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>MAVEN</ID>
+              <OriginalElement>spring-boot-starter-dctm:spring-boot-starter-dctm:0.0.1-SNAPSHOT</OriginalElement>
+              <nodes>
+                <node x="669.0" y="2400.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.10</node>
+                <node x="230.0" y="2560.0">org.hamcrest:hamcrest-library:jar:1.3</node>
+                <node x="650.0" y="360.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/jcifs:jcifs-krb5:jar:1.3.1</node>
+                <node x="951.0" y="1400.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE</node>
+                <node x="460.0" y="40.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/ch.qos.logback:logback-classic:jar:1.1.2</node>
+                <node x="951.0" y="1600.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-expression:jar:4.1.5.RELEASE</node>
+                <node x="544.0" y="880.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.sun.xml.bind:jaxb-impl:jar:2.1.4</node>
+                <node x="366.0" y="2600.0">org.springframework:spring-test:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+                <node x="460.0" y="1280.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/commons-beanutils:commons-beanutils:jar:1.9.2</node>
+                <node x="1046.0" y="1720.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.10/org.slf4j:slf4j-api:jar:1.7.10</node>
+                <node x="896.0" y="1720.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.10</node>
+                <node x="230.0" y="0.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1</node>
+                <node x="1086.0" y="1440.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE</node>
+                <node x="650.0" y="280.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/commons-codec:commons-codec:jar:1.3</node>
+                <node x="650.0" y="440.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/vsj:vsj-standard:jar:3.3</node>
+                <node x="1061.0" y="1840.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.2/ch.qos.logback:logback-core:jar:1.1.2</node>
+                <node x="896.0" y="1840.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.2</node>
+                <node x="887.0" y="1640.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE</node>
+                <node x="460.0" y="2280.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE</node>
+                <node x="650.0" y="1720.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE</node>
+                <node x="887.0" y="1680.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.2.2.RELEASE/org.yaml:snakeyaml:jar:1.14</node>
+                <node x="381.0" y="2480.0">org.mockito:mockito-core:jar:1.10.19/org.hamcrest:hamcrest-core:jar:1.3</node>
+                <node x="650.0" y="1920.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+                <node x="791.0" y="1360.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+                <node x="544.0" y="960.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/apple.macbinary:All-MB:jar:2.0</node>
+                <node x="1033.0" y="1760.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.10/org.slf4j:slf4j-api:jar:1.7.10</node>
+                <node x="650.0" y="400.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/vsj:vsj-license:jar:3.3</node>
+                <node x="544.0" y="200.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:dfc:jar:7.1.1-SNAPSHOT</node>
+                <node x="1132.0" y="1600.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-expression:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+                <node x="544.0" y="680.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/log4j:log4j:jar:1.2.17</node>
+                <node x="544.0" y="480.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.fs2:xtrim-api:jar:6.7.1000.0003</node>
+                <node x="669.0" y="2280.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+                <node x="230.0" y="2480.0">org.mockito:mockito-core:jar:1.10.19</node>
+                <node x="544.0" y="800.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jaxb-api:jar:2.1</node>
+                <node x="682.0" y="2120.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+                <node x="1086.0" y="1400.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+                <node x="682.0" y="2160.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+                <node x="662.0" y="840.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jaxb-api:jar:2.1/javax.activation:activation:jar:1.1</node>
+                <node x="544.0" y="1000.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.rsa.certj:certj:jar:5.2</node>
+                <node x="682.0" y="2000.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/junit:junit:jar:4.12</node>
+                <node x="544.0" y="520.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.fs2:xtrim-server:jar:6.7.1000.0003</node>
+                <node x="671.0" y="880.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.sun.xml.bind:jaxb-impl:jar:2.1.4/javax.xml.bind:jaxb-api:jar:2.1</node>
+                <node x="230.0" y="2600.0">org.springframework:spring-test:jar:4.1.5.RELEASE</node>
+                <node x="818.0" y="2320.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+                <node x="0.0" y="0.0">com.emc.documentum.spring:spring-boot-starter-dctm:0.0.1-SNAPSHOT</node>
+                <node x="460.0" y="80.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41</node>
+                <node x="544.0" y="160.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.services.config:configservice-impl:jar:7.1.1-20141104.073908-40</node>
+                <node x="791.0" y="1400.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE</node>
+                <node x="544.0" y="640.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/commons-lang:commons-lang:jar:2.4</node>
+                <node x="896.0" y="1800.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.10</node>
+                <node x="544.0" y="1040.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.rsa.cryptoj:cryptojce:jar:6.1</node>
+                <node x="544.0" y="1240.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/quest:questFixForJDK7:jar:3.3</node>
+                <node x="896.0" y="1760.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.10</node>
+                <node x="1086.0" y="1480.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+                <node x="460.0" y="2000.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE</node>
+                <node x="544.0" y="760.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.activation:activation:jar:1.1</node>
+                <node x="650.0" y="1640.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.2.2.RELEASE</node>
+                <node x="544.0" y="1200.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/vsj:vsj-standard:jar:3.3</node>
+                <node x="544.0" y="560.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/aspectj:aspectjrt:jar:1.5.2a</node>
+                <node x="544.0" y="600.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/commons-codec:commons-codec:jar:1.3</node>
+                <node x="652.0" y="1280.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/commons-beanutils:commons-beanutils:jar:1.9.2/commons-collections:commons-collections:jar:3.2.1</node>
+                <node x="544.0" y="1160.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/vsj:vsj-license:jar:3.3</node>
+                <node x="650.0" y="320.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/log4j:log4j:jar:1.2.17</node>
+                <node x="544.0" y="720.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jsr173_api:jar:20060801</node>
+                <node x="682.0" y="2040.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.mockito:mockito-core:jar:1.10.19</node>
+                <node x="544.0" y="280.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42</node>
+                <node x="544.0" y="920.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/jcifs:jcifs-krb5:jar:1.3.1</node>
+                <node x="951.0" y="1560.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+                <node x="1061.0" y="1880.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.2/org.slf4j:slf4j-api:jar:1.7.10</node>
+                <node x="669.0" y="2320.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE</node>
+                <node x="400.0" y="2560.0">org.hamcrest:hamcrest-library:jar:1.3/org.hamcrest:hamcrest-core:jar:1.3</node>
+                <node x="662.0" y="800.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jaxb-api:jar:2.1/javax.xml.stream:stax-api:jar:1.0-2</node>
+                <node x="650.0" y="1360.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE</node>
+                <node x="544.0" y="240.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:configservice-api:jar:7.1.1-20141104.073807-42</node>
+                <node x="460.0" y="0.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.slf4j:slf4j-api:jar:1.7.10</node>
+                <node x="544.0" y="80.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dms.client:dms-client-api:jar:7.1.1-20141101.060956-24</node>
+                <node x="323.0" y="2440.0">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+                <node x="544.0" y="1120.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.rsa.cryptoj:jcmFIPS:jar:6.1</node>
+                <node x="381.0" y="2520.0">org.mockito:mockito-core:jar:1.10.19/org.objenesis:objenesis:jar:2.1</node>
+                <node x="460.0" y="1360.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE</node>
+                <node x="669.0" y="2360.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.slf4j:slf4j-api:jar:1.7.10</node>
+                <node x="460.0" y="2240.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/bsf:bsf:jar:2.4.0</node>
+                <node x="682.0" y="2200.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.springframework:spring-test:jar:4.1.5.RELEASE</node>
+                <node x="544.0" y="2240.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/bsf:bsf:jar:2.4.0/commons-logging:commons-logging:jar:1.0.4</node>
+                <node x="951.0" y="1520.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE</node>
+                <node x="460.0" y="1320.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.google.guava:guava:jar:18.0</node>
+                <node x="682.0" y="2080.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
+                <node x="230.0" y="2440.0">junit:junit:jar:4.12</node>
+                <node x="544.0" y="1080.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.rsa.cryptoj:cryptojcommon:jar:6.1</node>
+                <node x="650.0" y="1960.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.yaml:snakeyaml:jar:1.14</node>
+                <node x="1063.0" y="1800.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.10/org.slf4j:slf4j-api:jar:1.7.10</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.2" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.2/ch.qos.logback:logback-core:jar:1.1.2">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jaxb-api:jar:2.1">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="815.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.2.2.RELEASE/org.yaml:snakeyaml:jar:1.14">
+                  <point x="0.0" y="0.0" />
+                  <point x="753.5" y="1695.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="1003.5" y="1495.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="856.0" y="1575.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/jcifs:jcifs-krb5:jar:1.3.1">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="935.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/aspectj:aspectjrt:jar:1.5.2a">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="575.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="705.5" y="1415.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="295.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/commons-beanutils:commons-beanutils:jar:1.9.2" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/commons-beanutils:commons-beanutils:jar:1.9.2/commons-collections:commons-collections:jar:3.2.1">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.10">
+                  <point x="0.0" y="0.0" />
+                  <point x="758.0" y="1775.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="330.0" y="2015.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/vsj:vsj-standard:jar:3.3">
+                  <point x="0.0" y="0.0" />
+                  <point x="582.0" y="455.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/bsf:bsf:jar:2.4.0">
+                  <point x="0.0" y="0.0" />
+                  <point x="330.0" y="2255.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/vsj:vsj-standard:jar:3.3">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="1215.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="540.0" y="1735.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jaxb-api:jar:2.1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jaxb-api:jar:2.1/javax.xml.stream:stax-api:jar:1.0-2">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:configservice-api:jar:7.1.1-20141104.073807-42">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="255.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.2">
+                  <point x="0.0" y="0.0" />
+                  <point x="758.0" y="1855.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.springframework:spring-test:jar:4.1.5.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="556.0" y="2215.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/bsf:bsf:jar:2.4.0" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/bsf:bsf:jar:2.4.0/commons-logging:commons-logging:jar:1.0.4">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.slf4j:slf4j-api:jar:1.7.10">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-expression:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-expression:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="330.0" y="2295.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-boot-starter-dctm:0.0.1-SNAPSHOT" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.sun.xml.bind:jaxb-impl:jar:2.1.4">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="895.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="org.springframework:spring-test:jar:4.1.5.RELEASE" target="org.springframework:spring-test:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jsr173_api:jar:20060801">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="735.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-expression:jar:4.1.5.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="856.0" y="1615.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-boot-starter-dctm:0.0.1-SNAPSHOT" target="org.hamcrest:hamcrest-library:jar:1.3">
+                  <point x="0.0" y="0.0" />
+                  <point x="100.0" y="2575.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="1003.5" y="1455.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.hamcrest:hamcrest-core:jar:1.3">
+                  <point x="0.0" y="0.0" />
+                  <point x="556.0" y="2095.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.2" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.2/org.slf4j:slf4j-api:jar:1.7.10">
+                  <point x="0.0" y="0.0" />
+                  <point x="963.5" y="1895.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:dfc:jar:7.1.1-SNAPSHOT">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="215.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE/aopalliance:aopalliance:jar:1.0">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/ch.qos.logback:logback-classic:jar:1.1.2">
+                  <point x="0.0" y="0.0" />
+                  <point x="330.0" y="55.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41">
+                  <point x="0.0" y="0.0" />
+                  <point x="330.0" y="95.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="330.0" y="1375.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/commons-lang:commons-lang:jar:2.4">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="655.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.2.2.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="540.0" y="1655.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-boot-starter-dctm:0.0.1-SNAPSHOT" target="org.springframework:spring-test:jar:4.1.5.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="100.0" y="2615.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/log4j:log4j:jar:1.2.17">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="695.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/commons-codec:commons-codec:jar:1.3">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/vsj:vsj-license:jar:3.3">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="1175.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.services.config:configservice-impl:jar:7.1.1-20141104.073908-40">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="175.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.slf4j:slf4j-api:jar:1.7.10">
+                  <point x="0.0" y="0.0" />
+                  <point x="549.5" y="2375.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/commons-beanutils:commons-beanutils:jar:1.9.2">
+                  <point x="0.0" y="0.0" />
+                  <point x="330.0" y="1295.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.10" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.10/org.slf4j:slf4j-api:jar:1.7.10">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="556.0" y="2175.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-boot-starter-dctm:0.0.1-SNAPSHOT" target="junit:junit:jar:4.12">
+                  <point x="0.0" y="0.0" />
+                  <point x="100.0" y="2455.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="540.0" y="1935.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.rsa.cryptoj:cryptojce:jar:6.1">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="1055.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="org.mockito:mockito-core:jar:1.10.19" target="org.mockito:mockito-core:jar:1.10.19/org.objenesis:objenesis:jar:2.1">
+                  <point x="0.0" y="0.0" />
+                  <point x="290.5" y="2535.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="junit:junit:jar:4.12" target="junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/jcifs:jcifs-krb5:jar:1.3.1">
+                  <point x="0.0" y="0.0" />
+                  <point x="582.0" y="375.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/log4j:log4j:jar:1.2.17">
+                  <point x="0.0" y="0.0" />
+                  <point x="582.0" y="335.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.rsa.certj:certj:jar:5.2">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="1015.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.fs2:xtrim-api:jar:6.7.1000.0003">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="495.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.10" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.10/org.slf4j:slf4j-api:jar:1.7.10">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.hamcrest:hamcrest-library:jar:1.3">
+                  <point x="0.0" y="0.0" />
+                  <point x="556.0" y="2135.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/apple.macbinary:All-MB:jar:2.0">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="975.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.10">
+                  <point x="0.0" y="0.0" />
+                  <point x="758.0" y="1815.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.10">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/vsj:vsj-license:jar:3.3">
+                  <point x="0.0" y="0.0" />
+                  <point x="582.0" y="415.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="org.mockito:mockito-core:jar:1.10.19" target="org.mockito:mockito-core:jar:1.10.19/org.hamcrest:hamcrest-core:jar:1.3">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.rsa.cryptoj:cryptojcommon:jar:6.1">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="1095.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.rsa.cryptoj:jcmFIPS:jar:6.1">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="1135.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dms.client:dms-client-api:jar:7.1.1-20141101.060956-24">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jaxb-api:jar:2.1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jaxb-api:jar:2.1/javax.activation:activation:jar:1.1">
+                  <point x="0.0" y="0.0" />
+                  <point x="588.0" y="855.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.sun.xml.bind:jaxb-impl:jar:2.1.4" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.sun.xml.bind:jaxb-impl:jar:2.1.4/javax.xml.bind:jaxb-api:jar:2.1">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/quest:questFixForJDK7:jar:3.3">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="1255.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/junit:junit:jar:4.12">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/commons-codec:commons-codec:jar:1.3">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="615.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.mockito:mockito-core:jar:1.10.19">
+                  <point x="0.0" y="0.0" />
+                  <point x="556.0" y="2055.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.activation:activation:jar:1.1">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="775.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.10">
+                  <point x="0.0" y="0.0" />
+                  <point x="549.5" y="2415.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.10" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.10/org.slf4j:slf4j-api:jar:1.7.10">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-boot-starter-dctm:0.0.1-SNAPSHOT" target="org.mockito:mockito-core:jar:1.10.19">
+                  <point x="0.0" y="0.0" />
+                  <point x="100.0" y="2495.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="org.hamcrest:hamcrest-library:jar:1.3" target="org.hamcrest:hamcrest-library:jar:1.3/org.hamcrest:hamcrest-core:jar:1.3">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="549.5" y="2335.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.fs2:xtrim-server:jar:6.7.1000.0003">
+                  <point x="0.0" y="0.0" />
+                  <point x="487.0" y="535.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.google.guava:guava:jar:18.0">
+                  <point x="0.0" y="0.0" />
+                  <point x="330.0" y="1335.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE">
+                  <point x="0.0" y="0.0" />
+                  <point x="856.0" y="1535.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.yaml:snakeyaml:jar:1.14">
+                  <point x="0.0" y="0.0" />
+                  <point x="540.0" y="1975.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.4592452830188679" x="-153.40345110928513" y="1642.596548890715" />
+              <SelectedNodes>
+                <node>com.emc.documentum.spring:spring-boot-starter-dctm:0.0.1-SNAPSHOT</node>
+              </SelectedNodes>
+              <Categories />
+              <VISIBILITY>All</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="spring-boot-starter-dctm" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="spring-boot-starter-dctm" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="824" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-starter-dctm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-starter-dctm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-starter-dctm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-starter-dctm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-starter-dctm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-starter-dctm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-starter-dctm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e241b90b-99a1-4321-936d-f85b3df677b1" name="Default" comment="" />
+      <created>1426489378241</created>
+      <updated>1426489378241</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="824" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32998565" sideWeight="0.6775568" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6775568" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3224432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="atlassian-ide-plugin-workspace">
+    <option name="bambooConfiguration">
+      <BambooWorkspaceConfiguration>
+        <option name="view">
+          <BambooViewConfigurationBean />
+        </option>
+      </BambooWorkspaceConfiguration>
+    </option>
+    <option name="defaultCredentials">
+      <UserCfgBean />
+    </option>
+  </component>
+  <component name="atlassian-ide-plugin-workspace-issues">
+    <option name="view">
+      <JiraViewConfigurationBean>
+        <option name="viewFilterId" value="" />
+      </JiraViewConfigurationBean>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$MAVEN_REPOSITORY$/bsf/bsf/2.4.0/bsf-2.4.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="18" selection-start="901" selection-end="901" vertical-scroll-proportion="0.4260355">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/spring-boot-starter-dctm:spring-boot-starter-dctm:0.0.1-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>spring-boot-starter-dctm:spring-boot-starter-dctm:0.0.1-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="669.0" y="2400.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.10</node>
+            <node x="230.0" y="2560.0">org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="650.0" y="360.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/jcifs:jcifs-krb5:jar:1.3.1</node>
+            <node x="951.0" y="1400.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE</node>
+            <node x="460.0" y="40.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/ch.qos.logback:logback-classic:jar:1.1.2</node>
+            <node x="951.0" y="1600.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-expression:jar:4.1.5.RELEASE</node>
+            <node x="544.0" y="880.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.sun.xml.bind:jaxb-impl:jar:2.1.4</node>
+            <node x="366.0" y="2600.0">org.springframework:spring-test:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+            <node x="460.0" y="1280.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/commons-beanutils:commons-beanutils:jar:1.9.2</node>
+            <node x="1046.0" y="1720.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.10/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="896.0" y="1720.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.10</node>
+            <node x="230.0" y="0.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1</node>
+            <node x="1086.0" y="1440.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE</node>
+            <node x="650.0" y="280.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/commons-codec:commons-codec:jar:1.3</node>
+            <node x="650.0" y="440.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/vsj:vsj-standard:jar:3.3</node>
+            <node x="1061.0" y="1840.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.2/ch.qos.logback:logback-core:jar:1.1.2</node>
+            <node x="896.0" y="1840.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.2</node>
+            <node x="887.0" y="1640.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE</node>
+            <node x="460.0" y="2280.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE</node>
+            <node x="650.0" y="1720.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE</node>
+            <node x="887.0" y="1680.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.2.2.RELEASE/org.yaml:snakeyaml:jar:1.14</node>
+            <node x="381.0" y="2480.0">org.mockito:mockito-core:jar:1.10.19/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="650.0" y="1920.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+            <node x="791.0" y="1360.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+            <node x="544.0" y="960.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/apple.macbinary:All-MB:jar:2.0</node>
+            <node x="1033.0" y="1760.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.10/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="650.0" y="400.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/vsj:vsj-license:jar:3.3</node>
+            <node x="544.0" y="200.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:dfc:jar:7.1.1-SNAPSHOT</node>
+            <node x="1132.0" y="1600.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-expression:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+            <node x="544.0" y="680.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/log4j:log4j:jar:1.2.17</node>
+            <node x="544.0" y="480.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.fs2:xtrim-api:jar:6.7.1000.0003</node>
+            <node x="669.0" y="2280.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+            <node x="230.0" y="2480.0">org.mockito:mockito-core:jar:1.10.19</node>
+            <node x="544.0" y="800.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jaxb-api:jar:2.1</node>
+            <node x="682.0" y="2120.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="1086.0" y="1400.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="682.0" y="2160.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+            <node x="662.0" y="840.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jaxb-api:jar:2.1/javax.activation:activation:jar:1.1</node>
+            <node x="544.0" y="1000.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.rsa.certj:certj:jar:5.2</node>
+            <node x="682.0" y="2000.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/junit:junit:jar:4.12</node>
+            <node x="544.0" y="520.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.fs2:xtrim-server:jar:6.7.1000.0003</node>
+            <node x="671.0" y="880.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.sun.xml.bind:jaxb-impl:jar:2.1.4/javax.xml.bind:jaxb-api:jar:2.1</node>
+            <node x="230.0" y="2600.0">org.springframework:spring-test:jar:4.1.5.RELEASE</node>
+            <node x="818.0" y="2320.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+            <node x="0.0" y="0.0">com.emc.documentum.spring:spring-boot-starter-dctm:0.0.1-SNAPSHOT</node>
+            <node x="460.0" y="80.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41</node>
+            <node x="544.0" y="160.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.services.config:configservice-impl:jar:7.1.1-20141104.073908-40</node>
+            <node x="791.0" y="1400.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE</node>
+            <node x="544.0" y="640.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/commons-lang:commons-lang:jar:2.4</node>
+            <node x="896.0" y="1800.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.10</node>
+            <node x="544.0" y="1040.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.rsa.cryptoj:cryptojce:jar:6.1</node>
+            <node x="544.0" y="1240.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/quest:questFixForJDK7:jar:3.3</node>
+            <node x="896.0" y="1760.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.10</node>
+            <node x="1086.0" y="1480.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+            <node x="460.0" y="2000.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE</node>
+            <node x="544.0" y="760.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.activation:activation:jar:1.1</node>
+            <node x="650.0" y="1640.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.2.2.RELEASE</node>
+            <node x="544.0" y="1200.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/vsj:vsj-standard:jar:3.3</node>
+            <node x="544.0" y="560.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/aspectj:aspectjrt:jar:1.5.2a</node>
+            <node x="544.0" y="600.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/commons-codec:commons-codec:jar:1.3</node>
+            <node x="652.0" y="1280.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/commons-beanutils:commons-beanutils:jar:1.9.2/commons-collections:commons-collections:jar:3.2.1</node>
+            <node x="544.0" y="1160.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/vsj:vsj-license:jar:3.3</node>
+            <node x="650.0" y="320.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/log4j:log4j:jar:1.2.17</node>
+            <node x="544.0" y="720.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jsr173_api:jar:20060801</node>
+            <node x="682.0" y="2040.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.mockito:mockito-core:jar:1.10.19</node>
+            <node x="544.0" y="280.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42</node>
+            <node x="544.0" y="920.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/jcifs:jcifs-krb5:jar:1.3.1</node>
+            <node x="951.0" y="1560.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE</node>
+            <node x="1061.0" y="1880.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.2/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="669.0" y="2320.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE</node>
+            <node x="400.0" y="2560.0">org.hamcrest:hamcrest-library:jar:1.3/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="662.0" y="800.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jaxb-api:jar:2.1/javax.xml.stream:stax-api:jar:1.0-2</node>
+            <node x="650.0" y="1360.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE</node>
+            <node x="544.0" y="240.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:configservice-api:jar:7.1.1-20141104.073807-42</node>
+            <node x="460.0" y="0.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="544.0" y="80.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dms.client:dms-client-api:jar:7.1.1-20141101.060956-24</node>
+            <node x="323.0" y="2440.0">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="544.0" y="1120.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.rsa.cryptoj:jcmFIPS:jar:6.1</node>
+            <node x="381.0" y="2520.0">org.mockito:mockito-core:jar:1.10.19/org.objenesis:objenesis:jar:2.1</node>
+            <node x="460.0" y="1360.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE</node>
+            <node x="669.0" y="2360.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="460.0" y="2240.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/bsf:bsf:jar:2.4.0</node>
+            <node x="682.0" y="2200.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.springframework:spring-test:jar:4.1.5.RELEASE</node>
+            <node x="544.0" y="2240.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/bsf:bsf:jar:2.4.0/commons-logging:commons-logging:jar:1.0.4</node>
+            <node x="951.0" y="1520.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE</node>
+            <node x="460.0" y="1320.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.google.guava:guava:jar:18.0</node>
+            <node x="682.0" y="2080.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="230.0" y="2440.0">junit:junit:jar:4.12</node>
+            <node x="544.0" y="1080.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.rsa.cryptoj:cryptojcommon:jar:6.1</node>
+            <node x="650.0" y="1960.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.yaml:snakeyaml:jar:1.14</node>
+            <node x="1063.0" y="1800.0">com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.10/org.slf4j:slf4j-api:jar:1.7.10</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.2" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.2/ch.qos.logback:logback-core:jar:1.1.2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jaxb-api:jar:2.1">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="815.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.2.2.RELEASE/org.yaml:snakeyaml:jar:1.14">
+              <point x="0.0" y="0.0" />
+              <point x="753.5" y="1695.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="1003.5" y="1495.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="856.0" y="1575.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/jcifs:jcifs-krb5:jar:1.3.1">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="935.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/aspectj:aspectjrt:jar:1.5.2a">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="575.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="705.5" y="1415.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="295.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/commons-beanutils:commons-beanutils:jar:1.9.2" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/commons-beanutils:commons-beanutils:jar:1.9.2/commons-collections:commons-collections:jar:3.2.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.10">
+              <point x="0.0" y="0.0" />
+              <point x="758.0" y="1775.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="330.0" y="2015.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/vsj:vsj-standard:jar:3.3">
+              <point x="0.0" y="0.0" />
+              <point x="582.0" y="455.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/bsf:bsf:jar:2.4.0">
+              <point x="0.0" y="0.0" />
+              <point x="330.0" y="2255.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/vsj:vsj-standard:jar:3.3">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="1215.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="540.0" y="1735.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jaxb-api:jar:2.1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jaxb-api:jar:2.1/javax.xml.stream:stax-api:jar:1.0-2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:configservice-api:jar:7.1.1-20141104.073807-42">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="255.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.2">
+              <point x="0.0" y="0.0" />
+              <point x="758.0" y="1855.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.springframework:spring-test:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="556.0" y="2215.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/bsf:bsf:jar:2.4.0" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/bsf:bsf:jar:2.4.0/commons-logging:commons-logging:jar:1.0.4">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.slf4j:slf4j-api:jar:1.7.10">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-expression:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-expression:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="330.0" y="2295.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-boot-starter-dctm:0.0.1-SNAPSHOT" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.sun.xml.bind:jaxb-impl:jar:2.1.4">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="895.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-test:jar:4.1.5.RELEASE" target="org.springframework:spring-test:jar:4.1.5.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jsr173_api:jar:20060801">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="735.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-expression:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="856.0" y="1615.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-boot-starter-dctm:0.0.1-SNAPSHOT" target="org.hamcrest:hamcrest-library:jar:1.3">
+              <point x="0.0" y="0.0" />
+              <point x="100.0" y="2575.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="1003.5" y="1455.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="0.0" />
+              <point x="556.0" y="2095.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.2" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.2/org.slf4j:slf4j-api:jar:1.7.10">
+              <point x="0.0" y="0.0" />
+              <point x="963.5" y="1895.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:dfc:jar:7.1.1-SNAPSHOT">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="215.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-aop:jar:4.1.5.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/ch.qos.logback:logback-classic:jar:1.1.2">
+              <point x="0.0" y="0.0" />
+              <point x="330.0" y="55.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41">
+              <point x="0.0" y="0.0" />
+              <point x="330.0" y="95.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="330.0" y="1375.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/commons-lang:commons-lang:jar:2.4">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="655.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.2.2.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="540.0" y="1655.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-boot-starter-dctm:0.0.1-SNAPSHOT" target="org.springframework:spring-test:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="100.0" y="2615.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/log4j:log4j:jar:1.2.17">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="695.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/commons-codec:commons-codec:jar:1.3">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/vsj:vsj-license:jar:3.3">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="1175.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.services.config:configservice-impl:jar:7.1.1-20141104.073908-40">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="175.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.slf4j:slf4j-api:jar:1.7.10">
+              <point x="0.0" y="0.0" />
+              <point x="549.5" y="2375.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/commons-beanutils:commons-beanutils:jar:1.9.2">
+              <point x="0.0" y="0.0" />
+              <point x="330.0" y="1295.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.10" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.10/org.slf4j:slf4j-api:jar:1.7.10">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="556.0" y="2175.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-boot-starter-dctm:0.0.1-SNAPSHOT" target="junit:junit:jar:4.12">
+              <point x="0.0" y="0.0" />
+              <point x="100.0" y="2455.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="540.0" y="1935.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.rsa.cryptoj:cryptojce:jar:6.1">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="1055.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.mockito:mockito-core:jar:1.10.19" target="org.mockito:mockito-core:jar:1.10.19/org.objenesis:objenesis:jar:2.1">
+              <point x="0.0" y="0.0" />
+              <point x="290.5" y="2535.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="junit:junit:jar:4.12" target="junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/jcifs:jcifs-krb5:jar:1.3.1">
+              <point x="0.0" y="0.0" />
+              <point x="582.0" y="375.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.springframework:spring-core:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/log4j:log4j:jar:1.2.17">
+              <point x="0.0" y="0.0" />
+              <point x="582.0" y="335.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.rsa.certj:certj:jar:5.2">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="1015.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.fs2:xtrim-api:jar:6.7.1000.0003">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="495.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.10" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.10/org.slf4j:slf4j-api:jar:1.7.10">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.hamcrest:hamcrest-library:jar:1.3">
+              <point x="0.0" y="0.0" />
+              <point x="556.0" y="2135.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/apple.macbinary:All-MB:jar:2.0">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="975.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.10">
+              <point x="0.0" y="0.0" />
+              <point x="758.0" y="1815.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.10">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dfc:krbutil:jar:7.1.1-20141104.073759-42/vsj:vsj-license:jar:3.3">
+              <point x="0.0" y="0.0" />
+              <point x="582.0" y="415.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.mockito:mockito-core:jar:1.10.19" target="org.mockito:mockito-core:jar:1.10.19/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.rsa.cryptoj:cryptojcommon:jar:6.1">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="1095.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.rsa.cryptoj:jcmFIPS:jar:6.1">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="1135.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.dms.client:dms-client-api:jar:7.1.1-20141101.060956-24">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jaxb-api:jar:2.1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.xml.bind:jaxb-api:jar:2.1/javax.activation:activation:jar:1.1">
+              <point x="0.0" y="0.0" />
+              <point x="588.0" y="855.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.sun.xml.bind:jaxb-impl:jar:2.1.4" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.sun.xml.bind:jaxb-impl:jar:2.1.4/javax.xml.bind:jaxb-api:jar:2.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/quest:questFixForJDK7:jar:3.3">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="1255.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/junit:junit:jar:4.12">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/commons-codec:commons-codec:jar:1.3">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="615.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter-test:jar:1.2.2.RELEASE/org.mockito:mockito-core:jar:1.10.19">
+              <point x="0.0" y="0.0" />
+              <point x="556.0" y="2055.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/javax.activation:activation:jar:1.1">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="775.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.10">
+              <point x="0.0" y="0.0" />
+              <point x="549.5" y="2415.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.10" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.2.2.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.10/org.slf4j:slf4j-api:jar:1.7.10">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-boot-starter-dctm:0.0.1-SNAPSHOT" target="org.mockito:mockito-core:jar:1.10.19">
+              <point x="0.0" y="0.0" />
+              <point x="100.0" y="2495.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hamcrest:hamcrest-library:jar:1.3" target="org.hamcrest:hamcrest-library:jar:1.3/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.data:spring-data-commons:jar:1.9.2.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="549.5" y="2335.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.emc.documentum.dfc:dfc:jar:7.1.1-20141104.073733-41/com.emc.documentum.fs2:xtrim-server:jar:6.7.1000.0003">
+              <point x="0.0" y="0.0" />
+              <point x="487.0" y="535.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/com.google.guava:guava:jar:18.0">
+              <point x="0.0" y="0.0" />
+              <point x="330.0" y="1335.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.springframework.boot:spring-boot:jar:1.2.2.RELEASE/org.springframework:spring-context:jar:4.1.5.RELEASE/org.springframework:spring-beans:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="856.0" y="1535.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE" target="com.emc.documentum.spring:spring-data-documentum:jar:0.0.1-20150316.090359-1/org.springframework.boot:spring-boot-starter:jar:1.2.2.RELEASE/org.yaml:snakeyaml:jar:1.14">
+              <point x="0.0" y="0.0" />
+              <point x="540.0" y="1975.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.4592452830188679" x="-153.40345110928513" y="1642.596548890715" />
+          <SelectedNodes>
+            <node>com.emc.documentum.spring:spring-boot-starter-dctm:0.0.1-SNAPSHOT</node>
+          </SelectedNodes>
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="40" selection-start="367" selection-end="391" vertical-scroll-proportion="0.19266056">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Node.js v0.10.31 Core Modules</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-boot-starter-dctm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
