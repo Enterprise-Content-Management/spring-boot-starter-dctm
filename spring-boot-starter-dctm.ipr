@@ -26,7 +26,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring-boot-starter-dctm" target="1.6" />
+      <module name="spring-boot-starter-dctm" target="1.7" />
     </bytecodeTargetLevel>
   </component>
   <component name="CopyrightManager" default="" />
@@ -174,7 +174,7 @@
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
   <component name="libraryTable">
     <library name="Maven: aopalliance:aopalliance:1.0">
@@ -232,48 +232,48 @@
         <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: com.emc.documentum.dfc:configservice-api:7.1.1-SNAPSHOT">
+    <library name="Maven: com.emc.documentum.dfc:configservice-api:7.2-SNAPSHOT">
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/configservice-api/7.1.1-SNAPSHOT/configservice-api-7.1.1-20141104.073807-42.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/configservice-api/7.2-SNAPSHOT/configservice-api-7.2-SNAPSHOT.jar!/" />
       </CLASSES>
       <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/configservice-api/7.1.1-SNAPSHOT/configservice-api-7.1.1-20141104.073807-42-javadoc.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/configservice-api/7.2-SNAPSHOT/configservice-api-7.2-SNAPSHOT-javadoc.jar!/" />
       </JAVADOC>
       <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/configservice-api/7.1.1-SNAPSHOT/configservice-api-7.1.1-20141104.073807-42-sources.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/configservice-api/7.2-SNAPSHOT/configservice-api-7.2-SNAPSHOT-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: com.emc.documentum.dfc:dfc:7.1.1-SNAPSHOT">
+    <library name="Maven: com.emc.documentum.dfc:dfc:7.2-SNAPSHOT">
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/dfc/7.1.1-SNAPSHOT/dfc-7.1.1-SNAPSHOT.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/dfc/7.2-SNAPSHOT/dfc-7.2-20160710.203551-32.jar!/" />
       </CLASSES>
       <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/dfc/7.1.1-SNAPSHOT/dfc-7.1.1-SNAPSHOT-javadoc.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/dfc/7.2-SNAPSHOT/dfc-7.2-20160710.203551-32-javadoc.jar!/" />
       </JAVADOC>
       <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/dfc/7.1.1-SNAPSHOT/dfc-7.1.1-SNAPSHOT-sources.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/dfc/7.2-SNAPSHOT/dfc-7.2-20160710.203551-32-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: com.emc.documentum.dfc:krbutil:7.1.1-SNAPSHOT">
+    <library name="Maven: com.emc.documentum.dfc:krbutil:7.2-SNAPSHOT">
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/krbutil/7.1.1-SNAPSHOT/krbutil-7.1.1-20141104.073759-42.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/krbutil/7.2-SNAPSHOT/krbutil-7.2-SNAPSHOT.jar!/" />
       </CLASSES>
       <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/krbutil/7.1.1-SNAPSHOT/krbutil-7.1.1-20141104.073759-42-javadoc.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/krbutil/7.2-SNAPSHOT/krbutil-7.2-SNAPSHOT-javadoc.jar!/" />
       </JAVADOC>
       <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/krbutil/7.1.1-SNAPSHOT/krbutil-7.1.1-20141104.073759-42-sources.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/krbutil/7.2-SNAPSHOT/krbutil-7.2-SNAPSHOT-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: com.emc.documentum.dms.client:dms-client-api:7.1.1-SNAPSHOT">
+    <library name="Maven: com.emc.documentum.dms.client:dms-client-api:7.2-SNAPSHOT">
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dms/client/dms-client-api/7.1.1-SNAPSHOT/dms-client-api-7.1.1-20141101.060956-24.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dms/client/dms-client-api/7.2-SNAPSHOT/dms-client-api-7.2-SNAPSHOT.jar!/" />
       </CLASSES>
       <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dms/client/dms-client-api/7.1.1-SNAPSHOT/dms-client-api-7.1.1-20141101.060956-24-javadoc.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dms/client/dms-client-api/7.2-SNAPSHOT/dms-client-api-7.2-SNAPSHOT-javadoc.jar!/" />
       </JAVADOC>
       <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dms/client/dms-client-api/7.1.1-SNAPSHOT/dms-client-api-7.1.1-20141101.060956-24-sources.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dms/client/dms-client-api/7.2-SNAPSHOT/dms-client-api-7.2-SNAPSHOT-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: com.emc.documentum.fs2:xtrim-api:6.7.1000.0003">
@@ -298,26 +298,26 @@
         <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/fs2/xtrim-server/6.7.1000.0003/xtrim-server-6.7.1000.0003-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: com.emc.documentum.services.config:configservice-impl:7.1.1-SNAPSHOT">
+    <library name="Maven: com.emc.documentum.services.config:configservice-impl:7.2-SNAPSHOT">
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/services/config/configservice-impl/7.1.1-SNAPSHOT/configservice-impl-7.1.1-20141104.073908-40.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/services/config/configservice-impl/7.2-SNAPSHOT/configservice-impl-7.2-SNAPSHOT.jar!/" />
       </CLASSES>
       <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/services/config/configservice-impl/7.1.1-SNAPSHOT/configservice-impl-7.1.1-20141104.073908-40-javadoc.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/services/config/configservice-impl/7.2-SNAPSHOT/configservice-impl-7.2-SNAPSHOT-javadoc.jar!/" />
       </JAVADOC>
       <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/services/config/configservice-impl/7.1.1-SNAPSHOT/configservice-impl-7.1.1-20141104.073908-40-sources.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/services/config/configservice-impl/7.2-SNAPSHOT/configservice-impl-7.2-SNAPSHOT-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: com.emc.documentum.spring:spring-data-documentum:0.0.1-SNAPSHOT">
+    <library name="Maven: com.emc.documentum.spring:spring-data-documentum:0.0.1">
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/spring/spring-data-documentum/0.0.1-SNAPSHOT/spring-data-documentum-0.0.1-SNAPSHOT.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/spring/spring-data-documentum/0.0.1/spring-data-documentum-0.0.1.jar!/" />
       </CLASSES>
       <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/spring/spring-data-documentum/0.0.1-SNAPSHOT/spring-data-documentum-0.0.1-SNAPSHOT-javadoc.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/spring/spring-data-documentum/0.0.1/spring-data-documentum-0.0.1-javadoc.jar!/" />
       </JAVADOC>
       <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/spring/spring-data-documentum/0.0.1-SNAPSHOT/spring-data-documentum-0.0.1-SNAPSHOT-sources.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/spring/spring-data-documentum/0.0.1/spring-data-documentum-0.0.1-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: com.emc.rsa.certj:certj:5.2">
@@ -331,26 +331,59 @@
         <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/certj/certj/5.2/certj-5.2-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: com.emc.rsa.cryptoj:cryptojce:6.1">
+    <library name="Maven: com.emc.rsa.cryptoj:cryptoj:6.1.2">
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/cryptojce/6.1/cryptojce-6.1.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/cryptoj/6.1.2/cryptoj-6.1.2.jar!/" />
       </CLASSES>
       <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/cryptojce/6.1/cryptojce-6.1-javadoc.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/cryptoj/6.1.2/cryptoj-6.1.2-javadoc.jar!/" />
       </JAVADOC>
       <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/cryptojce/6.1/cryptojce-6.1-sources.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/cryptoj/6.1.2/cryptoj-6.1.2-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: com.emc.rsa.cryptoj:cryptojcommon:6.1">
+    <library name="Maven: com.emc.rsa.cryptoj:cryptojce:6.1.2">
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/cryptojcommon/6.1/cryptojcommon-6.1.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/cryptojce/6.1.2/cryptojce-6.1.2.jar!/" />
       </CLASSES>
       <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/cryptojcommon/6.1/cryptojcommon-6.1-javadoc.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/cryptojce/6.1.2/cryptojce-6.1.2-javadoc.jar!/" />
       </JAVADOC>
       <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/cryptojcommon/6.1/cryptojcommon-6.1-sources.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/cryptojce/6.1.2/cryptojce-6.1.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.emc.rsa.cryptoj:cryptojcommon:6.1.2">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/cryptojcommon/6.1.2/cryptojcommon-6.1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/cryptojcommon/6.1.2/cryptojcommon-6.1.2-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/cryptojcommon/6.1.2/cryptojcommon-6.1.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.emc.rsa.cryptoj:jcm:6.1">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/jcm/6.1/jcm-6.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/jcm/6.1/jcm-6.1-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/jcm/6.1/jcm-6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.emc.rsa.cryptoj:jcmandroidfips:6.1">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/jcmandroidfips/6.1/jcmandroidfips-6.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/jcmandroidfips/6.1/jcmandroidfips-6.1-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/jcmandroidfips/6.1/jcmandroidfips-6.1-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: com.emc.rsa.cryptoj:jcmFIPS:6.1">
@@ -362,6 +395,17 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/jcmFIPS/6.1/jcmFIPS-6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.emc.rsa.cryptoj:util:6.1.2">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/util/6.1.2/util-6.1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/util/6.1.2/util-6.1.2-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/emc/rsa/cryptoj/util/6.1.2/util-6.1.2-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: com.google.guava:guava:18.0">
@@ -705,6 +749,17 @@
         <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-logging/1.2.2.RELEASE/spring-boot-starter-logging-1.2.2.RELEASE-sources.jar!/" />
       </SOURCES>
     </library>
+    <library name="Maven: org.springframework.boot:spring-boot-starter-security:1.2.2.RELEASE">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-security/1.2.2.RELEASE/spring-boot-starter-security-1.2.2.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-security/1.2.2.RELEASE/spring-boot-starter-security-1.2.2.RELEASE-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-security/1.2.2.RELEASE/spring-boot-starter-security-1.2.2.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="Maven: org.springframework.boot:spring-boot-starter-test:1.2.2.RELEASE">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-test/1.2.2.RELEASE/spring-boot-starter-test-1.2.2.RELEASE.jar!/" />
@@ -747,6 +802,39 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.9.2.RELEASE/spring-data-commons-1.9.2.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.springframework.security:spring-security-config:3.2.6.RELEASE">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/3.2.6.RELEASE/spring-security-config-3.2.6.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/3.2.6.RELEASE/spring-security-config-3.2.6.RELEASE-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/3.2.6.RELEASE/spring-security-config-3.2.6.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.springframework.security:spring-security-core:3.2.6.RELEASE">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.2.6.RELEASE/spring-security-core-3.2.6.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.2.6.RELEASE/spring-security-core-3.2.6.RELEASE-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.2.6.RELEASE/spring-security-core-3.2.6.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.springframework.security:spring-security-web:3.2.6.RELEASE">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.6.RELEASE/spring-security-web-3.2.6.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.6.RELEASE/spring-security-web-3.2.6.RELEASE-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.6.RELEASE/spring-security-web-3.2.6.RELEASE-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: org.springframework:spring-aop:4.1.5.RELEASE">
@@ -813,6 +901,17 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.1.5.RELEASE/spring-test-4.1.5.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.springframework:spring-web:4.1.5.RELEASE">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.5.RELEASE/spring-web-4.1.5.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.5.RELEASE/spring-web-4.1.5.RELEASE-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.5.RELEASE/spring-web-4.1.5.RELEASE-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: org.yaml:snakeyaml:1.14">

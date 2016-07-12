@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.emc.documentum.spring</groupId>
     <artifactId>spring-boot-starter-dctm</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 
     <properties>
         <!-- github server corresponds to entry in ~/.m2/settings.xml -->
@@ -23,98 +23,87 @@
         <dependency>
             <groupId>com.emc.documentum.spring</groupId>
             <artifactId>spring-data-documentum</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
     </dependencies>
 
 
-
     <distributionManagement>
+        <snapshotRepository>
+            <id>ossrh</id>
+            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+        </snapshotRepository>
         <repository>
-            <id>internal.repo</id>
-            <name>Temporary Staging Repository</name>
-            <url>file://${project.build.directory}/mvn-repo</url>
+            <id>ossrh</id>
+            <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
         </repository>
     </distributionManagement>
-
-    <repositories>
-        <!--<repository>-->
-            <!--<id>artifactory-dev</id>-->
-            <!--<url>http://pls-jfrogrepo.lss.emc.com:8081/artifactory/dev-snapshot-local</url>-->
-            <!--<snapshots>-->
-                <!--<updatePolicy>-->
-                    <!--always-->
-                <!--</updatePolicy>-->
-            <!--</snapshots>-->
-        <!--</repository>-->
-
-        <!--<repository>-->
-            <!--<id>artifactory</id>-->
-            <!--<url>http://pls-jfrogrepo.lss.emc.com:8081/artifactory/internal</url>-->
-            <!--<snapshots>-->
-                <!--<updatePolicy>-->
-                    <!--never-->
-                <!--</updatePolicy>-->
-            <!--</snapshots>-->
-        <!--</repository>-->
-    </repositories>
-
-
-    <!--<distributionManagement>-->
-        <!--<snapshotRepository>-->
-            <!--<id>artifactory-dev</id>-->
-            <!--<name>pls-jfrogrepo.lss.emc.com-snapshots</name>-->
-            <!--<url>http://pls-jfrogrepo.lss.emc.com:8081/artifactory/dev-snapshot-local</url>-->
-        <!--</snapshotRepository>-->
-    <!--</distributionManagement>-->
-
 
     <build>
         <plugins>
             <plugin>
-                <artifactId>maven-deploy-plugin</artifactId>
-                <version>2.8.1</version>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
-                    <altDeploymentRepository>internal.repo::default::file://${project.build.directory}/mvn-repo</altDeploymentRepository>
+                    <source>1.7</source>
+                    <target>1.7</target>
                 </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-source-plugin</artifactId>
+                <version>2.2.1</version>
+                <executions>
+                    <execution>
+                        <id>attach-sources</id>
+                        <goals>
+                            <goal>jar-no-fork</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-javadoc-plugin</artifactId>
+                <version>2.9.1</version>
+                <executions>
+                    <execution>
+                        <id>attach-javadocs</id>
+                        <goals>
+                            <goal>jar</goal>
+                        </goals>
+                    </execution>
+                </executions>
             </plugin>
 
 
             <plugin>
-                <groupId>com.github.github</groupId>
-                <artifactId>site-maven-plugin</artifactId>
-                <version>0.12</version>
-                <configuration>
-                    <!-- git commit message -->
-                    <message>Maven artifacts for ${project.version}</message>
-                    <!-- disable webpage processing -->
-                    <noJekyll>true</noJekyll>
-                    <!-- matches distribution management repository url above -->
-                    <outputDirectory>${project.build.directory}/mvn-repo</outputDirectory>
-                    <!-- remote branch name -->
-                    <!--<branch>refs/heads/mvn-repo</branch>-->
-                    <!-- If you remove this then the old artifact will be removed and new
-                     one will replace. But with the merge tag you can just release by changing
-                                                      the version -->
-                    <merge>true</merge>
-                    <includes>
-                        <include>**/*</include>
-                    </includes>
-                    <!-- github repo name -->
-                    <repositoryName>mvn-repo</repositoryName>
-                    <!-- github username -->
-                    <repositoryOwner>mmohen</repositoryOwner>
-                </configuration>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-gpg-plugin</artifactId>
                 <executions>
                     <execution>
+                        <id>sign-artifacts</id>
+                        <phase>verify</phase>
                         <goals>
-                            <goal>site</goal>
+                            <goal>sign</goal>
                         </goals>
-                        <phase>deploy</phase>
                     </execution>
                 </executions>
             </plugin>
+
+            <plugin>
+                <groupId>org.sonatype.plugins</groupId>
+                <artifactId>nexus-staging-maven-plugin</artifactId>
+                <version>1.6.7</version>
+                <extensions>true</extensions>
+                <configuration>
+                    <serverId>ossrh</serverId>
+                    <nexusUrl>https://oss.sonatype.org/</nexusUrl>
+                    <autoReleaseAfterClose>true</autoReleaseAfterClose>
+                    <stagingProfileId>526d3a6b674d2</stagingProfileId>
+                </configuration>
+            </plugin>
         </plugins>
     </build>
-
 </project>
